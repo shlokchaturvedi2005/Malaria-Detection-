@@ -1,16 +1,15 @@
-# Malaria Detection Using Deep Learning
+# Malaria Detection using Deep Learning
 
-This project detects malaria infected cells using Deep learning.
+This project detects malaria from microscopic blood cell images using CNN and MobileNetV2.
 
-## Team Members
-1. Shlok Chaturvedi
-2. Shreyash Jain
-3. Shreya Sahu
-4. Shreya Sahu
+Technologies Used
+- Python
+- TensorFlow
+- CNN
+- Flask
 
-## Project Steps
-- Dataset Collection
-- Data Preprocessing
-- Data Visualization
-- Model Training
-- Application Building
+Dataset
+NIH Malaria Dataset
+
+Features
+Upload blood cell image → Predict infected or not.
